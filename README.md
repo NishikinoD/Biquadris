@@ -1,5 +1,5 @@
 # Biquadris
-UWaterloo CS 246 F18 Final Project
+University of Waterloo CS 246 F18 Final Project
 
 ## Intro
 A Latinization of the game Tetris, expanded for two player competition.
@@ -34,5 +34,3 @@ entered. For example, **lef** is enough to distinguish the **left** command from
 
 ## Copyright
 _© 2018 Jianqiao Zong, Huaqing Fang, Yifan Li All Rights Reserved_
-
-_University of Waterloo CS 246_
