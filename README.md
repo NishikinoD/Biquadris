@@ -33,6 +33,6 @@ triggered.
 entered. For example, **lef** is enough to distinguish the **left** command from the **levelup** command.
 
 ## Copyright
-_© 2018, Jianqiao Zong, Huaqing Fang, Yifan Li All Rights Reserved_
+_© 2018 Jianqiao Zong, Huaqing Fang, Yifan Li All Rights Reserved_
 
 _University of Waterloo CS 246_
