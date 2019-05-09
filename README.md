@@ -35,4 +35,4 @@ entered. For example, **lef** is enough to distinguish the **left** command from
 ## Copyright
 _© 2018, Jianqiao Zong, Huaqing Fang, Yifan Li All Rights Reserved_
 
-_@ University of Waterloo CS 246_
+_ University of Waterloo CS 246 _
