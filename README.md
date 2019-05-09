@@ -28,9 +28,11 @@ triggered.
 - force X: change your opponent's current block to the one you choose
     (values for X: L, J, S, Z, I, O, T)
     
-## Notes
+## Other Features
   Only as much of a command as is necessary to distinguish it from other commands needs to be
 entered. For example, **lef** is enough to distinguish the **left** command from the **levelup** command.
 
-## Group Members
-  Finishied this project with _**Yifan Li**_ and _**Huaqing Fang**_ on Dec 3rd, 2018.
+## Copyright
+_© 2018, Jianqiao Zong, Huaqing Fang, Yifan Li All Rights Reserved_
+
+_@ University of Waterloo CS 246_
