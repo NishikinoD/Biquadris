@@ -10,22 +10,22 @@ a special action; see below).
 
 ## How to play 
 acceptalbe commands:  
-- left: move the current block one unit left
-- right: move the current block one unit right 
-- down: move the current block one unit downward
-- drop: drop the current block
-- clockwise: rotate the current block 90 degrees clockwise
-- counterclockwise: rotate the current block 90 degrees counterclockwise
-- levelup: increase difficulty
-- leveldown: decrease difficulty
-- restart: clear the board and restart the game
+- **left**: move the current block one unit left
+- **right**: move the current block one unit right 
+- **down**: move the current block one unit downward
+- **drop**: drop the current block
+- **clockwise**: rotate the current block 90 degrees clockwise
+- **counterclockwise**: rotate the current block 90 degrees counterclockwise
+- **levelup**: increase difficulty
+- **leveldown**: decrease difficulty
+- **restart**: clear the board and restart the game
 
 ## Special Actions
 If a player, upon dropping a block, clears two or more rows simultaneously, a special action is
 triggered.  
-- blind: The player's board, from columns 3-9, and from rows 3-12, is covered with question marks (?), until the player drops a block; then the display reverts to normal.
-- heavy: movements of the blocks apply twice for every single command
-- force X: change your opponent's current block to the one you choose
+- **blind**: The player's board, from columns 3-9, and from rows 3-12, is covered with question marks (?), until the player drops a block; then the display reverts to normal.
+- **heavy**: movements of the blocks apply twice for every single command
+- **force X**: change your opponent's current block to the one you choose
     (values for X: L, J, S, Z, I, O, T)
     
 ## Other Features
